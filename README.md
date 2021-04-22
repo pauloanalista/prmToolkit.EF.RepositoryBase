@@ -22,6 +22,11 @@ Para instalar utilize o seguinte comando abaixo ou procure no Manage Nuget Packa
 ```sh
 Install-Package prmToolkit.EF.RepositoryBase -Version 1.0.0
 ```
+| Package |  Version | Downloads |
+| ------- | ----- | ----- |
+| `prmToolkit.EF.RepositoryBase` | [![NuGet](https://img.shields.io/nuget/v/prmToolkit.EF.RepositoryBase.svg)](https://www.nuget.org/packages/prmToolkit.EF.RepositoryBase) | [![Nuget](https://img.shields.io/nuget/dt/prmToolkit.EF.RepositoryBase.svg)](https://nuget.org/packages/prmToolkit.EF.RepositoryBase) |
+
+
 ## Instalando no projeto
 Instale o pacote no projeto onde esteja sua interface e implementação.
 ![image](https://user-images.githubusercontent.com/6010161/115731769-c823af80-a35d-11eb-9c9b-c8c50e4b7e74.png)
