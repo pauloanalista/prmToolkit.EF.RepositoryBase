@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Paulo Rogério Martins Marques</Authors>
+    <Company>Ilovecode.com.br</Company>
+    <Description>Fornece os principais métodos para seu repositorio que utiliza Entity Framework.
+
+- Crud
+
+- Consultas com ou sem include
+- Consultas com ou sem Tracking
+
+- Etc
+
+
+Métodos disponíveis nesta primeira versão
+- IQueryable&lt;TEntidade&gt; ListarPor
+- IQueryable&lt;TEntidade&gt; ListarOrdenadosPor
+- TEntidade ObterPor
+- bool Existe
+- IQueryable&lt;TEntidade&gt; Listar
+- TEntidade Adicionar
+- TEntidade Editar
+-  void Remover
+-  void AdicionarLista</Description>
+    <PackageIcon>eu_nuget.png</PackageIcon>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageTags>paulorogerio, paulo, RepositoryBase, entity, entityframework, entity framework, crud, ef, repository, repositories</PackageTags>
+    <PackageProjectUrl>https://github.com/pauloanalista/prmToolkit.EF.RepositoryBase</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/pauloanalista/prmToolkit.EF.RepositoryBase</RepositoryUrl>
+    <Copyright>Paulo Rogério Martins Marques</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Google Drive\eu_nuget.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
