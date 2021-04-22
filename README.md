@@ -143,13 +143,14 @@ Fique a vontade para enviar sugetões, a ideia é facilitar nosso trabalho.
 
 # VEJA TAMBÉM
 ## Grupo de Estudo no Telegram
-- [Participe gratuitamente do grupo de estudo](https://t.me/blogilovecode)
+- [Participe gratuitamente do grupo de estudo](https://olha.la/ilovecode-telegram)
 
-## Cursos baratos!
-- [Meus cursos](https://olha.la/udemy)
+## Cursos e Treinamentos
+- [Cursos Baratos](https://olha.la/udemy)
+- [Cursos Indicados](https://olha.la/cursos)
 
 ## Fique ligado, acesse!
 - [Blog ILoveCode](https://ilovecode.com.br)
 
 ## Novidades, cupons de descontos e cursos gratuitos
-https://olha.la/ilovecode-receber-cupons-novidades
+https://t.me/blogilovecode
